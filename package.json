@@ -10,11 +10,9 @@
   "keywords": ["merkle", "tree", "merkleTree"],
   "author": "Roman Semenov <semenov.roma@gmail.com>",
   "license": "ISC",
-  "dependencies": {
-    "snarkjs": "git+https://github.com/tornadocash/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
-    "circomlib": "git+https://github.com/tornadocash/circomlib.git#c372f14d324d57339c88451834bf2824e73bbdbc"
-  },
   "devDependencies": {
+    "snarkjs": "git+https://github.com/tornadocash/snarkjs.git#869181cfaf7526fe8972073d31655493a04326d5",
+    "circomlib": "git+https://github.com/tornadocash/circomlib.git#c372f14d324d57339c88451834bf2824e73bbdbc",
     "babel-eslint": "^10.1.0",
     "chai": "^4.2.0",
     "eslint": "^7.5.0",
